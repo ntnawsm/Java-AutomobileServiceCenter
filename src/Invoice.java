@@ -42,7 +42,7 @@ public class Invoice implements ActionListener
         p.setLayout(null);
         //p.setBackground(Color.WHITE);
         //Lsbel
-        lbak = new JLabel(new ImageIcon("C:\\Users\\NitiN\\Downloads\\Pictures\\b.jpg"));
+        lbak = new JLabel(new ImageIcon("C:\\Users\\NtN\\Downloads\\Pictures\\b.jpg"));
         p.add(lbak);
         lbak.setBounds(0,0,1366,768);
         

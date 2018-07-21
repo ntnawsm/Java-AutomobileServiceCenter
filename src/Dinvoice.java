@@ -39,7 +39,7 @@ public class Dinvoice implements ActionListener
         
         //Labels
         
-        lbak = new JLabel(new ImageIcon("C:\\Users\\NitiN\\Downloads\\Pictures\\payday_2_dallas_heist_art_99969_1366x768.jpg"));
+        lbak = new JLabel(new ImageIcon("C:\\Users\\NtN\\Downloads\\Pictures\\payday_2_dallas_heist_art_99969_1366x768.jpg"));
         p.add(lbak);
         lbak.setBounds(0,0,1366,768);
         
